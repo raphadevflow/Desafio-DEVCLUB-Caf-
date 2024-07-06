@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('./assets/cafe-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+
+h1{
+    color: bisque;
+    font-size: 70px;
+}
+
+p {
+    color:blanchedalmond;
+    font-size: 30px;
+}
+
+button {
+    color:bisque;
+    background-color: brown;
+    border-radius:5px;
+    font-size: 14px;
+    width: 100px;
+    height: 35px;
+    
+}
